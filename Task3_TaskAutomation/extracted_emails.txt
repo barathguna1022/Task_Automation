@@ -1,0 +1,8 @@
+Extracted Email Addresses
+--------------------------
+john.doe@gmail.com
+support@codealpha.tech
+billing@company.org
+hr.team@workplace.in
+info@example.com
+contact@admin.net

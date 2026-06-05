@@ -1,0 +1,13 @@
+Hello everyone,
+
+Please contact our team for support.
+You can reach John at john.doe@gmail.com or the office at support@codealpha.tech.
+For billing issues, email billing@company.org.
+Our HR team can be contacted at hr.team@workplace.in.
+Feel free to also write to info@example.com for general queries.
+
+Some invalid entries like @missingemail or noatsign.com should be ignored.
+
+Thank you,
+Admin Team
+contact@admin.net
